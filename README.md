@@ -7,9 +7,7 @@ Aim is to create a Scooter and Car vehicle where the Tyre is being inherited fro
 
 
 # PROGRAM:
-```
-using System;
-
+```using System;
 public class Vechicle
 {
     public void tyre()
@@ -17,7 +15,6 @@ public class Vechicle
         Console.WriteLine("It is a tubeless tyre");
     }
 }
-
 class Scooter : Vechicle
 {
     public  void display() 
@@ -26,7 +23,6 @@ class Scooter : Vechicle
         Console.WriteLine("It is a scooter class");
     }
 }
-
 class Car : Vechicle
 {
     public  void display() 
@@ -35,7 +31,6 @@ class Car : Vechicle
         Console.WriteLine("It is a car class");
     }
 }
-
 class Program
 {
     static void Main()
