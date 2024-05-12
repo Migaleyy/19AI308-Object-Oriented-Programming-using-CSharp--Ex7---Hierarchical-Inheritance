@@ -53,7 +53,7 @@ class Program
 }
 ```
 # OUTPUT:
-![alt text](image-1.png)
+![image](https://github.com/Migaleyy/19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance/assets/118262199/eeafb326-36f1-472d-ac89-6c1b6c31038e)
 
 # RESULT:
 Thus the program has been executed successfully.
